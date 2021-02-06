@@ -2,7 +2,7 @@
 #EXTINF:-1,Teleantioquia
 https://hdvideo2.cdn.net.co/live01/ta.m3u8
 
-#EXTINF:-1,CARACOL HD
+#EXTINF:-1,CARACOL HDAHORA
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1,TELEPACIFICO
@@ -10,3 +10,6 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500
 
 #EXTINF:-1,Cablenoticias
 http://rv.therevenge.co:80/live/242424/242424/87167.m3u8?
+
+#EXTINF:-1, CARACOL NATIONAL
+http://hidraplay.tv:80/live/APestana/123456/43509.m3u8
