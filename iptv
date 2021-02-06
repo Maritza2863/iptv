@@ -16,3 +16,6 @@ http://hidraplay.tv:80/live/APestana/123456/43509.m3u8
 
 #EXTINF:-1, TLNOVELAS
 https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/univision.tlnovelas.us.m3u8
+
+#EXTINF:-1, VENEVISION
+http://200.54.19.131:8500/play/a0dw/index.m3u8
