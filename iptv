@@ -8,11 +8,8 @@ https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1,TELEPACIFICO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 
-#EXTINF:-1,Cablenoticias
-http://185.71.64.167:80/307245103371/307245103371/87167?
-
 #EXTINF:-1, CARACOL NATIONAL
-http://hidraplay.tv:80/live/APestana/123456/43509.m3u8
+http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/147.m3u8#
 
 #EXTINF:-1, TLNOVELAS
 https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/univision.tlnovelas.us.m3u8
