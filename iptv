@@ -25,3 +25,6 @@ http://200.54.19.131:8500/play/a0dw/index.m3u8
 
 #EXTINF:-1, CABLENOTICIAS
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/18928
+
+#EXTINF:-1, RCN1
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/1125092
