@@ -26,5 +26,8 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Bravo
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/82549
 
+#EXTINF:-1,Tennis
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+
 
 
